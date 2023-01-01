@@ -1,6 +1,4 @@
 this is first line
 this is second line
 this is third line
-this changes for develop-2
-these changes not for develop-2
-these changes for develop-1  
+
